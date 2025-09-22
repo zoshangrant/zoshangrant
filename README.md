@@ -4,8 +4,8 @@
 
 - <b>Algorithm For Updating Files in Python</b>
   - [File Updates In Python](https://github.com/zoshangrant/Algorithm-For-File-updates-in-Python/blob/main/README.md)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Creating a Conditional Statement (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Conditional Statement](https://docs.google.com/document/d/1fh4RKvSY0qqz-iISOH2o7uc7dO3fTUWli3xvZ1QeD8U/edit?tab=t.0#heading=h.q1ooarguu4h9)
 - <b>Certifications</b>
   - Google Cybersecurity Professional(https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
