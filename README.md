@@ -7,12 +7,7 @@
 - <b>Creating a Conditional Statement (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Conditional Statement](https://docs.google.com/document/d/1fh4RKvSY0qqz-iISOH2o7uc7dO3fTUWli3xvZ1QeD8U/edit?tab=t.0#heading=h.q1ooarguu4h9)
 - <b>Certifications</b>
-  - Google Cybersecurity Professional(https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-  
-
+  - [Google Cybersecurity Professional](https://docs.google.com/document/d/18fGuT_9JcYlzAgCHDVi7EXGDy4N66mK0Q3mpHzU9SGA/edit?tab=t.0)
 
 
 <h2> 🤳 Connect with me:</h2>
